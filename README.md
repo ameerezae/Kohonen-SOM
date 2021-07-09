@@ -23,8 +23,20 @@ Install dependencies by running following command:
 Result of `som.py` is something like this:
 \
 Left one showing initial color map and right one is organized color map.
-\
+
 <img src="./som-fix-lr-fix-nr.png alt="som1"> 
+
+Result of `modified-lr-som.py` is something like this:
+\
+Left one showing initial color map and right one is organized color map.
+
+<img src="./som-modified-lr.png alt="som2"> 
+
+Result of `modified-nr-som.py` is something like this:
+\
+Left one showing initial color map and right one is organized color map.
+
+<img src="./modified-nr-som.png alt="som2"> 
 
 ### Authors
 Amir Rezaei [@ameerezae](https://github.com/ameerezae)
