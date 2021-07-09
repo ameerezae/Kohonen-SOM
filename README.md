@@ -24,7 +24,7 @@ Result of `som.py` is something like this:
 \
 Left one showing initial color map and right one is organized color map.
 \
-<img src="./som-fix-lr-fix-nr.png alt="som1"> 
+<img src="./som-fix-lr-fix-nr.png" alt="som1"> 
 
 ### Authors
 Amir Rezaei [@ameerezae](https://github.com/ameerezae)
